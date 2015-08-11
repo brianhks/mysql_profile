@@ -1,2 +1,2 @@
-# mysql_profile
-Demo module for mysql using ivy
+# nexus_puppet_deployer
+Deploys individual puppet modules into a nexus repository
